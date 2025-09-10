@@ -13,9 +13,9 @@ body, html {
   padding: 0 20px;
 }
 
-.header-content h1 {
+.header-content h2 {
   margin: 0 auto;
-  font-size: 40px;
+  font-size: 30px;
   color: white;
   flex: 1;
   text-align: center;
@@ -137,4 +137,5 @@ section {
   .content {
     grid-template-columns: 1fr;
   }
+
 }
